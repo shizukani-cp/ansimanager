@@ -1,3 +1,3 @@
 # ansimanager
-
-Describe your project here.
+## 概要
+ANSIエスケープシーケンスが、ソースコードの中のマジックナンバーなどのようにならないようにするためのライブラリです。
